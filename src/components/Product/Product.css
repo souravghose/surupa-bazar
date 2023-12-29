@@ -1,0 +1,33 @@
+.product{
+    width: 300px;
+    height: 510px;
+    border: 1px solid #cbced0;
+    border-radius: 8px;
+    margin: 10px;
+    position: relative;
+    border-radius: 8px;
+}
+.product img{
+    width: 286px;
+    height: 286px;
+    border: 1px solid rgb(209, 209, 209);
+    margin: 5px;
+    border-radius: 6px;
+
+}
+.product-info{
+    margin: 10px;
+}
+
+.product h4{
+    font-size: 20px;
+    font-family: 'Lato';
+    margin-bottom: 5px;
+}
+
+.addToCart{
+    background-color: rgb(222, 192, 44);
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+}

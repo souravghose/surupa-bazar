@@ -1,0 +1,16 @@
+nav{
+    background-color: rgb(229, 229, 229);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+nav img{
+    width: 400px;
+    height: 80px;
+}
+nav a{
+    text-decoration: none;
+    margin-right: 15px;
+    font-size: 20px;
+}

@@ -1,0 +1,68 @@
+[
+      {
+        "id": 1,
+        "name": "Apple",
+        "price": 1.99,
+        "seller": "Fresh Fruits Co.",
+        "ratings": 4.5,
+        "img": "https://storage.sg.content-cdn.io/cdn-cgi/image/%7Bwidth%7D,%7Bheight%7D,quality=75,format=auto/in-resources/8845e144-8902-4204-b80f-9dc7dc2f4bcb/Images/ProductImages/Source/2901460.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Banana",
+        "price": 0.79,
+        "seller": "Tropical Foods Inc.",
+        "ratings": 4.3,
+        "img": "https://storage.sg.content-cdn.io/cdn-cgi/image/%7Bwidth%7D,%7Bheight%7D,quality=75,format=auto/in-resources/8845e144-8902-4204-b80f-9dc7dc2f4bcb/Images/ProductImages/Source/2900975.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Orange",
+        "price": 2.49,
+        "seller": "Citrus Delights",
+        "ratings": 4.6,
+        "img": "https://storage.sg.content-cdn.io/cdn-cgi/image/%7Bwidth%7D,%7Bheight%7D,quality=75,format=auto/in-resources/8845e144-8902-4204-b80f-9dc7dc2f4bcb/Images/ProductImages/Source/2902800%20Orange%20Komla%20Indian.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Grapes",
+        "price": 3.99,
+        "seller": "Vineyard Fresh",
+        "ratings": 4.8,
+        "img": "https://chaldn.com/_mpimage/sobuj-angur-green-grapes-12-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D134876&q=best&v=1&m=400&webp=1"
+      },
+      {
+        "id": 5,
+        "name": "Strawberry",
+        "price": 2.29,
+        "seller": "Berry Haven",
+        "ratings": 4.4,
+        "img": "https://static.vecteezy.com/system/resources/previews/005/634/168/original/strawberry-icon-isolated-on-white-illustration-free-vector.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Mango",
+        "price": 2.99,
+        "seller": "Tropical Harvests",
+        "ratings": 4.7,
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/41EvGpCFECL._AC_UL600_SR600,600_.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Pineapple",
+        "price": 3.49,
+        "seller": "Tropical Delights Co.",
+        "ratings": 4.6,
+        "img": "https://chaldn.com/_mpimage/anaros-pineapple-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61358&q=low&v=1&m=400&webp=1"
+      },
+      {
+        "id": 8,
+        "name": "Watermelon",
+        "price": 4.99,
+        "seller": "Juicy Melons Farm",
+        "ratings": 4.9,
+        "img": "https://chaldn.com/_mpimage/watermelon-large-5-kg-tormuj-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131107&q=best&v=1&m=400&m=400&webp=1"
+      }
+    
+]
+  
